@@ -1,6 +1,8 @@
 Almanac Web Server
 =========================
 
+[![Join the chat at https://gitter.im/almanac-news/almanac-web-server](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/almanac-news/almanac-web-server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Table of Contents
 
 - [About](#about)
